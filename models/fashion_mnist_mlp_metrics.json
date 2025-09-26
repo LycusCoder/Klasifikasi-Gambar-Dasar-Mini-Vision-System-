@@ -1,0 +1,11 @@
+{
+  "epochs": 5,
+  "batch_size": 64,
+  "train_time_sec": 26.54,
+  "final_train_accuracy": 0.8974259495735168,
+  "final_val_accuracy": 0.8784999847412109,
+  "test_loss": 0.3782767355442047,
+  "test_accuracy": 0.8709999918937683,
+  "keras_model_path": "/app/models/fashion_mnist_mlp.keras",
+  "tflite_model_path": "/app/models/fashion_mnist_mlp.tflite"
+}
